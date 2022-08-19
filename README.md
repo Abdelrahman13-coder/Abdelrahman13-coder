@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ### 🔭 I’m currently an Information Technology institute Trainee 
 
-<img align="left" alt="Node.js" width="40px" src="https://www.iti.gov.eg/assets/images/iti-logo.png"/>
+[<img align="left" alt="codeSTACKr | ITI" width="40px" src="https://www.iti.gov.eg/assets/images/iti-logo.png"/>](https://www.iti.gov.eg/iti/home)
 
 <br>
 <br>
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/abdelrahman--tarek/)
 
-[<img align="left" alt="codeSTACKr | Kaggle" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>](https://www.kaggle.com/abdelrahmantarek13)
+[<img align="left" alt="codeSTACKr | Kaggle" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png"/>](https://www.kaggle.com/abdelrahmantarek13)
 
+[<img align="left" alt="codeSTACKr | DataCamp" width="40px" src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4"/>](https://app.datacamp.com/profile/abdelrahmanazim98)
 
 <!-- 
 - ⚡ Fun fact: ... 
