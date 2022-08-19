@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/abdelrahman--tarek/)
 
-
+[<img align="left" alt="codeSTACKr | Kaggle" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>](https://www.kaggle.com/abdelrahmantarek13)
 
 
 <!-- 
