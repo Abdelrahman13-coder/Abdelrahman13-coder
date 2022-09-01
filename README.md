@@ -1,17 +1,20 @@
-### Hi there, I am Abdelrahman👋
+
+<h1 align="center">Hi there, I am Abdelrahman👋</h1>
 
 <!--
 **Abdelrahman13-coder/Abdelrahman13-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman13-coder=Profile%20views&color=0e75b6&style=flat" alt="Abdelrahman13-coder" /> </p>
+
 ### 🔭 I’m currently an Information Technology institute Trainee 
 
-[<img align="left" alt="codeSTACKr | ITI" width="40px" src="https://www.iti.gov.eg/assets/images/iti-logo.png"/>](https://www.iti.gov.eg/iti/home)
+[<img align="center" alt="codeSTACKr | ITI" width="40px" src="https://www.iti.gov.eg/assets/images/iti-logo.png"/>](https://www.iti.gov.eg/iti/home)
 
-<br>
-<br>
-<br>
 <br>
 
 🌱 I’m currently learning ... Recommendatation Systems, Reinforcement learning
