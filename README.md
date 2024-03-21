@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align = "center"> 🔭 I’m currently an Information Technology institute Trainee </h1>
+<h1 align = "center"> 🔭 Data Scientist, Analyst, Engineer, Storyteller </h1>
 
-[<img align="center" alt="codeSTACKr | ITI" width="40px" src="https://www.iti.gov.eg/assets/images/iti-logo.png"/>](https://www.iti.gov.eg/iti/home)
+<img src="https://internal.iti.gov.eg/assets/images/organization/iti-logo-text.png"     alt="Markdown Monster icon"     style="float: left; margin-right: 10px;" width ="70px;"/>
 
 <br>
 
@@ -40,3 +40,12 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrahman13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrahman13-coder" /> </p>
+
+[<img align="left" alt="codeSTACKr | PowerBi" height = "50px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_.png"/>]()
+[<img align="left" alt="codeSTACKr | PowerApps" height = "50px" src="https://arunpotti.com/wp-content/uploads/2024/02/image-13.png?w=900"/>]()
+[<img align="left" alt="codeSTACKr | PowerAutomate" height = "40px" src="https://www.paitgroup.com/hs-fs/hubfs/Power-Automate-22.png"/>]()
+[<img align="left" alt="codeSTACKr | GPT" height = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png"/>]()
+[<img align="left" alt="codeSTACKr | Azure" height = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1024px-Microsoft_Azure_Logo.svg.png"/>]()
+
+
+
